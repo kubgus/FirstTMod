@@ -1,0 +1,39 @@
+﻿Mods:{
+	FirstMod:{
+		ItemName:{
+			SusBar:"Amogite Bar"
+			SusOre:"Amogite Ore"
+
+			ObamiumBar:"Obamium Bar"
+			ObamiumOre:"Obamium Ore"
+
+			TutorialItem:"Donut"
+			TutorialSword:"Deez (Do)nuts"
+			TutorialPickaxe:"Donut Pickaxe"
+			TutorialAxe:"Donut Axe"
+			TutorialHammer: "Donut Hammer"
+
+			FockenKnife:"Focken Knife"
+			ObamiumWand:"Obamium Wand"
+			MomSlayer:"Rose Fury"
+		}
+
+		ItemTooltip:{
+			ObamiumOre:"What is his last name again?"
+
+			TutorialSword:"Punish your enemies!"
+			TutorialPickaxe:"How?"
+			TutorialAxe:"How?"
+			TutorialHammer: "How?"
+
+			FockenKnife:"'Is a focken koef ya feel mate innit'\nAnd whatever else British people say."
+			ObamiumWand:"'Obama when you don't vote for him'\nVOTE OBAMNA!"
+			MomSlayer:"'Some call it a weapon, others call it a vehicle'"
+		}
+
+		MapObject:{
+			SusOre:"Amogite"
+			ObamiumOre:"Obamium"
+		}
+	}
+}

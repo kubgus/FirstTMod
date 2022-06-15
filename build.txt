@@ -1,0 +1,3 @@
+displayName = Some Epic Mod
+author = LaIQ
+version = 0.1
