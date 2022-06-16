@@ -3,6 +3,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using Terraria.GameContent.Creative;
 using FirstMod.Content.Dusts;
+using FirstMod.Content.Items.Placeables;
 using Microsoft.Xna.Framework;
 
 namespace FirstMod.Content.Items.Weapons
@@ -43,8 +44,9 @@ namespace FirstMod.Content.Items.Weapons
         public override void AddRecipes()
         {
             CreateRecipe()
-                .AddIngredient(ItemID.Amethyst, 64)
-                .AddIngredient(ItemID.TungstenBar, 20)
+                .AddIngredient(ItemID.Amethyst, 30)
+                .AddIngredient(ItemID.AdamantiteBar, 20)
+                .AddIngredient(ModContent.ItemType<ObamiumOre>(), 200)
                 .AddTile(TileID.Anvils)
                 .Register();
         }

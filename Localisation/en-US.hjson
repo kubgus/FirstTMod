@@ -16,6 +16,7 @@
 			FockenKnife:"Focken Knife"
 			ObamiumWand:"Obamium Wand"
 			MomSlayer:"Rose Fury"
+			TestBoomerang:"Terrang"
 		}
 
 		ItemTooltip:{
@@ -29,6 +30,7 @@
 			FockenKnife:"'Is a focken koef ya feel mate innit'\nAnd whatever else British people say."
 			ObamiumWand:"'Obama when you don't vote for him'\nVOTE OBAMNA!"
 			MomSlayer:"'Some call it a weapon, others call it a vehicle'"
+			TestBoomerang:"'The final one returns'"
 		}
 
 		MapObject:{

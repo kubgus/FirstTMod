@@ -165,3 +165,5 @@ C:\Users\jagus\Documents\My Games\Terraria\tModLoader\ModSources\FirstMod\obj\De
 C:\Users\jagus\Documents\My Games\Terraria\tModLoader\ModSources\FirstMod\obj\Debug\net6.0\refint\FirstMod.dll
 C:\Users\jagus\Documents\My Games\Terraria\tModLoader\ModSources\FirstMod\obj\Debug\net6.0\FirstMod.pdb
 C:\Users\jagus\Documents\My Games\Terraria\tModLoader\ModSources\FirstMod\obj\Debug\net6.0\ref\FirstMod.dll
+C:\Users\jagus\Documents\My Games\Terraria\tModLoader\ModSources\FirstMod\bin\Debug\net6.0\Microsoft.CodeAnalysis.FlowAnalysis.Utilities.dll
+C:\Users\jagus\Documents\My Games\Terraria\tModLoader\ModSources\FirstMod\bin\Debug\net6.0\Microsoft.CodeAnalysis.FlowAnalysis.Utilities.xml
